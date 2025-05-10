@@ -1,0 +1,12 @@
+D:\مستقبلي\C#\ADO.NET\ContactsConsole app\bin\Debug\ContactsConsole app.exe.config
+D:\مستقبلي\C#\ADO.NET\ContactsConsole app\bin\Debug\ContactsConsole app.exe
+D:\مستقبلي\C#\ADO.NET\ContactsConsole app\bin\Debug\ContactsConsole app.pdb
+D:\مستقبلي\C#\ADO.NET\ContactsConsole app\bin\Debug\ContactsBusinessLayar.dll
+D:\مستقبلي\C#\ADO.NET\ContactsConsole app\bin\Debug\ContactsDataAccessLayar.dll
+D:\مستقبلي\C#\ADO.NET\ContactsConsole app\bin\Debug\ContactsBusinessLayar.pdb
+D:\مستقبلي\C#\ADO.NET\ContactsConsole app\bin\Debug\ContactsDataAccessLayar.pdb
+D:\مستقبلي\C#\ADO.NET\ContactsConsole app\obj\Debug\ContactsConsole app-PresentationLayar.csproj.AssemblyReference.cache
+D:\مستقبلي\C#\ADO.NET\ContactsConsole app\obj\Debug\ContactsConsole app-PresentationLayar.csproj.CoreCompileInputs.cache
+D:\مستقبلي\C#\ADO.NET\ContactsConsole app\obj\Debug\Contacts.A5CB9B8A.Up2Date
+D:\مستقبلي\C#\ADO.NET\ContactsConsole app\obj\Debug\ContactsConsole app.exe
+D:\مستقبلي\C#\ADO.NET\ContactsConsole app\obj\Debug\ContactsConsole app.pdb

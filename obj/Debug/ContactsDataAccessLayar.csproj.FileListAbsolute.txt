@@ -1,0 +1,6 @@
+D:\مستقبلي\C#\ADO.NET\ContactsDataAccessLayar\bin\Debug\ContactsDataAccessLayar.dll
+D:\مستقبلي\C#\ADO.NET\ContactsDataAccessLayar\bin\Debug\ContactsDataAccessLayar.pdb
+D:\مستقبلي\C#\ADO.NET\ContactsDataAccessLayar\obj\Debug\ContactsDataAccessLayar.csproj.AssemblyReference.cache
+D:\مستقبلي\C#\ADO.NET\ContactsDataAccessLayar\obj\Debug\ContactsDataAccessLayar.csproj.CoreCompileInputs.cache
+D:\مستقبلي\C#\ADO.NET\ContactsDataAccessLayar\obj\Debug\ContactsDataAccessLayar.dll
+D:\مستقبلي\C#\ADO.NET\ContactsDataAccessLayar\obj\Debug\ContactsDataAccessLayar.pdb
